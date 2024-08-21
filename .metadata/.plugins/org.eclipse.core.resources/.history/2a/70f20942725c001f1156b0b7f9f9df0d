@@ -1,0 +1,9 @@
+spring.application.name=Employee-1
+
+
+# MongoDB configuration
+spring.data.mongodb.uri=mongodb://localhost:27017/quanlynhanvien
+
+# Server configuration
+server.port=8080
+server.servlet.context-path=/api
