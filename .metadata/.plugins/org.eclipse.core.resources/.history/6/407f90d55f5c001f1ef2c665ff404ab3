@@ -1,3 +1,0 @@
-spring.application.name=Employee
-spring.data.mongodb.database=quanlynhanvien
-spring.data.mongodb.port=27017
